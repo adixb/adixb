@@ -63,10 +63,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/adixb/adixb/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/sj7zourqpibih93sh52lvlc16">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=sj7zourqpibih93sh52lvlc16&count=5&unique=true" alt="Spotify recently played"  />
